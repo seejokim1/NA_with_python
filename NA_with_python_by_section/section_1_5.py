@@ -1,0 +1,6 @@
+print(f'T       : {T}')
+print(f'T[0:3]  : {T1}')
+print(f'T[0:-3] : {T2}')
+print(f'T[:]    : {T3}')
+print(f'T[5:]   : {T4}')
+print(f'T[:5]   : {T5}')
