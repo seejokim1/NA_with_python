@@ -129,3 +129,15 @@
 |--------|------|------|
 | 7.2.2 | np.polyfit 이용한 m 차 다항식 근사 | [section_07_02_02_polyfit_polynomial_approximation.py](chapter07/section_07_02_02_polyfit_polynomial_approximation.py) |
 | 7.2.3 | 행렬식을 이용한 m 차 다항식 근사 | [section_07_02_03_polynomial_approximation_matrix.py](chapter07/section_07_02_03_polynomial_approximation_matrix.py) |
+
+---
+
+## Chapter 8. 비선형 방정식
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 8.1.1 | 비선형 연립방정식의 뉴톤-랩슨법(Newton-Raphson Method) | [section_08_01_01_nonlinear_system_newton_raphson.py](chapter08/section_08_01_01_nonlinear_system_newton_raphson.py) |
+| 8.2.2 | 원과 직선이 만나는 점을 찾는 연립 비선형방정식 | [section_08_02_02_circle_line_nonlinear_system.py](chapter08/section_08_02_02_circle_line_nonlinear_system.py) |
