@@ -166,3 +166,15 @@
 | 10.1.2 | Explicit Euler Method 예제 (코드 1) | [section_10_01_02_explicit_euler_shooting_code1.py](chapter10/section_10_01_02_explicit_euler_shooting_code1.py) |
 | 10.1.2 | Explicit Euler Method 예제 (코드 2) | [section_10_01_02_explicit_euler_shooting_code2.py](chapter10/section_10_01_02_explicit_euler_shooting_code2.py) |
 | 10.2 | 비선형 Shooting Method | [section_10_02_nonlinear_shooting_method.py](chapter10/section_10_02_nonlinear_shooting_method.py) |
+
+---
+
+## Chapter 11. 유한차분법 (Finite Difference Method)
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 11.2.7 | 1차원 정상 열전달 FDM 수치해석 | [section_11_02_07_1d_steady_heat_fdm.py](chapter11/section_11_02_07_1d_steady_heat_fdm.py) |
+| 11.2.8 | 1차원 비정상 열전달 FDM 수치해석 | [section_11_02_08_1d_unsteady_heat_fdm.py](chapter11/section_11_02_08_1d_unsteady_heat_fdm.py) |
