@@ -118,3 +118,14 @@
 | 6.4.4 | Cubic Spline | [section_06_04_04_cubic_spline.py](chapter06/section_06_04_04_cubic_spline.py) |
 | 6.5.2 | Cubic Spline이 다른 보간법과 다른 이유 | [section_06_05_02_cubic_spline_comparison.py](chapter06/section_06_05_02_cubic_spline_comparison.py) |
 
+---
+
+## Chapter 7. 근사 및 최소자승법
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 7.2.2 | np.polyfit 이용한 m 차 다항식 근사 | [section_07_02_02_polyfit_polynomial_approximation.py](chapter07/section_07_02_02_polyfit_polynomial_approximation.py) |
+| 7.2.3 | 행렬식을 이용한 m 차 다항식 근사 | [section_07_02_03_polynomial_approximation_matrix.py](chapter07/section_07_02_03_polynomial_approximation_matrix.py) |
