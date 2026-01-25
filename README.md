@@ -29,3 +29,22 @@
 | 1.11 | NumPy 벡터·행렬 | [section_01_11_numpy_linear_algebra.py](chapter01/section_01_11_numpy_linear_algebra.py) |
 | 1.12 | 객체지향(OOP) | [section_01_12_oop.py](chapter01/section_01_12_oop.py) |
 | 1.13 | matplotlib 시각화 | [section_01_13_matplotlib.py](chapter01/section_01_13_matplotlib.py) |
+
+---
+
+## Chapter 2. 비선형 방정식의 근 구하기
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 2.2 | 점진탐색법 | |
+| 2.2.3 | 점진탐색법 함수 구현 | [section_02_02_incremental_search.py](chapter02/section_02_02_incremental_search.py) |
+| 2.2.5 | 중근을 갖는 경우 | [section_02_02_05_incremental_search_multiple_root.py](chapter02/section_02_02_05_incremental_search_multiple_root.py) |
+| 2.3 | 이분법 | |
+| 2.3.2 | 이분법 알고리즘 | [section_02_03_02_bisection_algorithm.py](chapter02/section_02_03_02_bisection_algorithm.py) |
+| 2.3.3 | SciPy 이분법 | [section_02_03_03_bisection_scipy.py](chapter02/section_02_03_03_bisection_scipy.py) |
+| 2.4 | 뉴턴–랩슨법 | |
+| 2.4.4 | 뉴턴–랩슨법 함수 구현 | [section_02_04_04_newton_raphson_function.py](chapter02/section_02_04_04_newton_raphson_function.py) |
+| 2.4.6 | SciPy 뉴턴–랩슨법 | [section_02_04_06_newton_scipy.py](chapter02/section_02_04_06_newton_scipy.py) |
