@@ -84,3 +84,22 @@
 | Section | Topic | Code |
 |--------|------|------|
 | 4.2.6 | 수치미분 코드 구현 | [section_04_02_06_numerical_derivative.py](chapter04/section_04_02_06_numerical_derivative.py) |
+
+---
+
+## Chapter 5. 수치적분 (Numerical Integration)
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 5.1.3 | 리만 합 구현 및 가시화 | [section_05_01_03_riemann_sum_visualization.py](chapter05/section_05_01_03_riemann_sum_visualization.py) |
+| 5.2.2 | 사다리꼴 적분 공식 (기본 구현) | [section_05_02_02_trapezoidal_rule_basic.py](chapter05/section_05_02_02_trapezoidal_rule_basic.py) |
+| 5.2.3 | 사다리꼴 적분 공식 (반복문 구현) | [section_05_02_03_trapezoidal_rule_loop.py](chapter05/section_05_02_03_trapezoidal_rule_loop.py) |
+| 5.3.2 | Richardson Extrapolation | [section_05_03_02_richardson_extrapolation.py](chapter05/section_05_03_02_richardson_extrapolation.py) |
+| 5.4.2 | Romberg 적분 | [section_05_04_02_romberg_integration.py](chapter05/section_05_04_02_romberg_integration.py) |
+| 5.5.2 | Simpson’s 1/3 Rule | [section_05_05_02_simpson_one_third_rule.py](chapter05/section_05_05_02_simpson_one_third_rule.py) |
+| 5.7.2 | 가우스 구적법 (1중 적분) | [section_05_07_02_gauss_quadrature_1d.py](chapter05/section_05_07_02_gauss_quadrature_1d.py) |
+| 5.7.4 | 가우스 구적법 (사각형 면적 적분) | [section_05_07_04_gauss_quadrature_rectangle_area.py](chapter05/section_05_07_04_gauss_quadrature_rectangle_area.py) |
+
