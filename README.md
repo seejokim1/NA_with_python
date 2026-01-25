@@ -48,3 +48,26 @@
 | 2.4 | 뉴턴–랩슨법 | |
 | 2.4.4 | 뉴턴–랩슨법 함수 구현 | [section_02_04_04_newton_raphson_function.py](chapter02/section_02_04_04_newton_raphson_function.py) |
 | 2.4.6 | SciPy 뉴턴–랩슨법 | [section_02_04_06_newton_scipy.py](chapter02/section_02_04_06_newton_scipy.py) |
+
+## Chapter 3. 선형연립방정식 수치해법
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 3.1.3 | 행렬의 선형변환 | [section_03_01_03_linear_transformation.py](chapter03/section_03_01_03_linear_transformation.py) |
+| 3.1.4 | 행공간과 영공간 | [section_03_01_04_row_null_space.py](chapter03/section_03_01_04_row_null_space.py) |
+| 3.2.3 | 전진 소거 알고리즘 | [section_03_02_03_forward_elimination.py](chapter03/section_03_02_03_forward_elimination.py) |
+| 3.2.4 | 후진 대입 | [section_03_02_04_back_substitution.py](chapter03/section_03_02_04_back_substitution.py) |
+| 3.2.5 | 가우스 소거법 전체 구현 | [section_03_02_05_gaussian_elimination_full.py](chapter03/section_03_02_05_gaussian_elimination_full.py) |
+| 3.2.6 | 부분 피벗팅 | [section_03_02_06_partial_pivoting.py](chapter03/section_03_02_06_partial_pivoting.py) |
+| 3.3.5 | Doolittle LU 분해 (문제1) | [section_03_03_05_doolittle_lu_problem1.py](chapter03/section_03_03_05_doolittle_lu_problem1.py) |
+| 3.3.5 | Doolittle LU 분해 + 해 구하기 | [section_03_03_05_doolittle_lu_solve.py](chapter03/section_03_03_05_doolittle_lu_solve.py) |
+| 3.3.6 | Crout LU 분해 | [section_03_03_06_crout_lu_decomposition.py](chapter03/section_03_03_06_crout_lu_decomposition.py) |
+| 3.3.8 | SciPy LU 분해 | [section_03_03_08_lu_scipy.py](chapter03/section_03_03_08_lu_scipy.py) |
+| 3.3.9 | SciPy LU로 연립방정식 풀이 | [section_03_03_09_lu_solve_scipy.py](chapter03/section_03_03_09_lu_solve_scipy.py) |
+| 3.3.10 | LU vs numpy.linalg.solve 비교 | [section_03_03_10_lu_vs_numpy_solve.py](chapter03/section_03_03_10_lu_vs_numpy_solve.py) |
+| 3.4.2 | Jacobi 반복법 | [section_03_04_02_jacobi_method.py](chapter03/section_03_04_02_jacobi_method.py) |
+| 3.4.3 | Gauss–Seidel 반복법 | [section_03_04_03_gauss_seidel_method.py](chapter03/section_03_04_03_gauss_seidel_method.py) |
+| 3.4.4 | SOR 반복법 | [section_03_04_04_sor_method.py](chapter03/section_03_04_04_sor_method.py) |
