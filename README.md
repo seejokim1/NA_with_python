@@ -178,3 +178,15 @@
 |--------|------|------|
 | 11.2.7 | 1차원 정상 열전달 FDM 수치해석 | [section_11_02_07_1d_steady_heat_fdm.py](chapter11/section_11_02_07_1d_steady_heat_fdm.py) |
 | 11.2.8 | 1차원 비정상 열전달 FDM 수치해석 | [section_11_02_08_1d_unsteady_heat_fdm.py](chapter11/section_11_02_08_1d_unsteady_heat_fdm.py) |
+
+---
+
+## Chapter 12. 유한요소법 (Finite Element Method)
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 12.3.1 | 실제좌표계에서의 유한요소법(FEM) 예제 | [section_12_03_01_fem_physical_coordinate.py](chapter12/section_12_03_01_fem_physical_coordinate.py) |
+| 12.4.1 | 기준좌표계에서의 유한요소법(FEM) 예제 | [section_12_04_01_fem_reference_coordinate.py](chapter12/section_12_04_01_fem_reference_coordinate.py) |
