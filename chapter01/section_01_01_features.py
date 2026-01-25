@@ -1,8 +1,6 @@
-"""
-(1.1) 파이썬의 특징
-Numerical Analysis with Python
-"""
+# =========================================================
+# Chapter 1: 파이썬의 이해
+# Section (1.1) 파이썬의 특징
+# =========================================================
 
-print("Python is an interpreted, high-level programming language.")
-print("It supports multiple programming paradigms.")
-
+print("Hello, Python!")
