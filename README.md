@@ -103,3 +103,18 @@
 | 5.7.2 | 가우스 구적법 (1중 적분) | [section_05_07_02_gauss_quadrature_1d.py](chapter05/section_05_07_02_gauss_quadrature_1d.py) |
 | 5.7.4 | 가우스 구적법 (사각형 면적 적분) | [section_05_07_04_gauss_quadrature_rectangle_area.py](chapter05/section_05_07_04_gauss_quadrature_rectangle_area.py) |
 
+---
+
+## Chapter 6. 보간법 (Interpolation)
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 6.2.4 | 뉴턴의 분할차분 보간법 | [section_06_02_04_newton_divided_difference.py](chapter06/section_06_02_04_newton_divided_difference.py) |
+| 6.3.2 | Lagrange 보간법 | [section_06_03_02_lagrange_interpolation.py](chapter06/section_06_03_02_lagrange_interpolation.py) |
+| 6.4.2 | Quadratic Spline | [section_06_04_02_quadratic_spline.py](chapter06/section_06_04_02_quadratic_spline.py) |
+| 6.4.4 | Cubic Spline | [section_06_04_04_cubic_spline.py](chapter06/section_06_04_04_cubic_spline.py) |
+| 6.5.2 | Cubic Spline이 다른 보간법과 다른 이유 | [section_06_05_02_cubic_spline_comparison.py](chapter06/section_06_05_02_cubic_spline_comparison.py) |
+
