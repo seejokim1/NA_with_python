@@ -153,3 +153,16 @@
 |--------|------|------|
 | 9.5.2 | 파이썬을 이용한 RK4 프로그래밍 | [section_09_05_02_rk4_programming.py](chapter09/section_09_05_02_rk4_programming.py) |
 | 9.6.1 | 미분-적분 방정식 수치기법 (Euler, RK2, RK4) | [section_09_06_01_differential_integral_equation.py](chapter09/section_09_06_01_differential_integral_equation.py) |
+
+---
+
+## Chapter 10. 경계값 문제와 Shooting Method
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 10.1.2 | Explicit Euler Method 예제 (코드 1) | [section_10_01_02_explicit_euler_shooting_code1.py](chapter10/section_10_01_02_explicit_euler_shooting_code1.py) |
+| 10.1.2 | Explicit Euler Method 예제 (코드 2) | [section_10_01_02_explicit_euler_shooting_code2.py](chapter10/section_10_01_02_explicit_euler_shooting_code2.py) |
+| 10.2 | 비선형 Shooting Method | [section_10_02_nonlinear_shooting_method.py](chapter10/section_10_02_nonlinear_shooting_method.py) |
