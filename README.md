@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/cover.png" width="450">
+</p>
+
+# NA_with_python  
+### 파이썬을 이용한 알기쉬운 수치해석  
+홍릉출판
+
+---
+
+
 ## Chapter 1. 파이썬의 이해
 
 > 교재 본문에 포함된 Python 예제 코드만 정리  
