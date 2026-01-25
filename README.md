@@ -141,3 +141,15 @@
 |--------|------|------|
 | 8.1.1 | 비선형 연립방정식의 뉴톤-랩슨법(Newton-Raphson Method) | [section_08_01_01_nonlinear_system_newton_raphson.py](chapter08/section_08_01_01_nonlinear_system_newton_raphson.py) |
 | 8.2.2 | 원과 직선이 만나는 점을 찾는 연립 비선형방정식 | [section_08_02_02_circle_line_nonlinear_system.py](chapter08/section_08_02_02_circle_line_nonlinear_system.py) |
+
+---
+
+## Chapter 9. 상미분방정식 및 미분-적분 방정식
+
+> 교재 본문에 포함된 Python 예제 코드만 정리  
+> 연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|--------|------|------|
+| 9.5.2 | 파이썬을 이용한 RK4 프로그래밍 | [section_09_05_02_rk4_programming.py](chapter09/section_09_05_02_rk4_programming.py) |
+| 9.6.1 | 미분-적분 방정식 수치기법 (Euler, RK2, RK4) | [section_09_06_01_differential_integral_equation.py](chapter09/section_09_06_01_differential_integral_equation.py) |
