@@ -5,7 +5,13 @@
 
 | Section | Topic | Code |
 |-------|------|------|
-| 1.1 | 파이썬의 특징 | chapter01/section_01_01_features.py |
+## Chapter 1. 파이썬의 이해
+
+| Section | Topic | Code |
+|--------|------|------|
+| 1.1 | 파이썬의 특징 | [section_01_01_features.py](chapter01/section_01_01_features.py) |
+
+
 | 1.2 | 변수 선언 | chapter01/section_01_02_variables.py |
 | 1.3 | 배열과 행렬 | chapter01/section_01_03_arrays_matrices.py |
 | 1.4 | 튜플 | chapter01/section_01_04_tuples.py |
