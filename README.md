@@ -100,6 +100,25 @@
 
 ---
 
+# Chapter 2. 비선형 방정식의 근 구하기
+
+교재 본문에 포함된 Python 예제 코드만 정리  
+연습문제 코드는 포함하지 않음
+
+| Section | Topic | Code |
+|----------|----------------|------|
+| 2.2 | 점진탐색법 |  |
+| 2.2.3 | 점진탐색법 함수 구현 | [section_02_02_incremental_search.py](./section_02_02_incremental_search.py) |
+| 2.2.5 | 중근을 갖는 경우 | [section_02_02_05_incremental_search_multiple_root.py](./section_02_02_05_incremental_search_multiple_root.py) |
+| 2.3 | 이분법 |  |
+| 2.3.2 | 이분법 알고리즘 | [section_02_03_02_bisection_algorithm.py](./section_02_03_02_bisection_algorithm.py) |
+| 2.3.3 | SciPy 이분법 | [section_02_03_03_bisection_scipy.py](./section_02_03_03_bisection_scipy.py) |
+| 2.4 | 뉴턴-랩슨법 |  |
+| 2.4.4 | 뉴턴-랩슨 함수 구현 | [section_02_04_04_newton_raphson_function.py](./section_02_04_04_newton_raphson_function.py) |
+| 2.4.6 | SciPy 뉴턴-랩슨법 | [section_02_04_06_newton_scipy.py](./section_02_04_06_newton_scipy.py) |
+
+---
+
 ## Chapter 3. 선형연립방정식 수치해법
 
 > 교재 본문에 포함된 Python 예제 코드만 정리  
