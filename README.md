@@ -44,7 +44,7 @@
 6. [ch6-수치보간_Interpolation](./PPT/ch6-수치보간_Interpolation.pdf)
 7. [ch7-수치회귀_Numerical_Regression](./PPT/ch7-수치회귀_Numerical_Regression.pdf)
 8. [ch8-비선형연립방정식_수치해법](./PPT/ch8-비선형연립방정식_수치해법.pdf)
-9. [ch9-상미분방정식_초기치문제](./PPT/ch9-상미분방정식_초기치문제.pdf)
+9. [ch9-상미분방정식_초기치문제](./PPT/ch9-상미분%20방정식_초기치문제.pdf)
 10. [ch10-Shooting_Method_경계치문제](./PPT/ch10-Shooting_Method_경계치문제.pdf)
 11. [ch11-유한차분법_Finite_Difference_Method](./PPT/ch11-유한차분법_Finite_Difference_Method.pdf)
 12. [ch12-유한요소법_Finite_Element%20Method.pdf](./PPT/ch12-유한요소법_Finite_Element%20Method.pdf)
