@@ -75,7 +75,7 @@
 | 1.10 | 함수 | [section_01_10_functions.py](chapter01/section_01_10_functions.py) |
 | 1.11 | NumPy 벡터·행렬 | [section_01_11_numpy_linear_algebra.py](chapter01/section_01_11_numpy_linear_algebra.py) |
 | 1.12 | 객체지향(OOP) | [section_01_12_oop.py](chapter01/section_01_12_oop.py) |
-| 1.12-예제 | OOP 확장 예제 | [section_01_12_06_oop_ex2.py](./section_01_12_06_oop_ex2.py) |
+| 1.12-예제 | OOP 확장 예제 | [section_01_12_06_oop_ex2.py](./section_01_12_oop.py) |
 | 1.13 | matplotlib 시각화 | [section_01_13_matplotlib.py](chapter01/section_01_13_matplotlib.py) |
 
 ---
