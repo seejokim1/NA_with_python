@@ -36,14 +36,6 @@
 
 ### 파이썬을 이용한 알기쉬운 수치해석
 
----
-
----
-
-## 📚 Lecture Notes (PPT)
-
-### 파이썬을 이용한 알기쉬운 수치해석
-
 1. [Chapter 1 - 파이썬의 이해](./PPT/ch1-파이썬의이해.pdf)
 2. [Chapter 2 - 비선형 방정식 근 구하기](./PPT/ch2-비선형_방정식_근구하기.pdf)
 3. [Chapter 3 - Linear Systems](./PPT/ch3-선형연립방정식_수치해법.pdf)
@@ -56,6 +48,7 @@
 10. [Chapter 10 - Shooting Method (BVP)](./PPT/ch10-Shooting_Method_경계치문제.pdf)
 11. [Chapter 11 - Finite Difference Method](./PPT/ch11-유한차분법_Finite_Difference_Method.pdf)
 12. [Chapter 12 - Finite Element Method](./PPT/ch12-유한요소법_Finite_Element_Method.pdf)
+
 
 ---
 
