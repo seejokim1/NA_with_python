@@ -38,24 +38,27 @@
 
 ---
 
+---
+
 ## 📚 Lecture Notes (PPT)
 
 ### 파이썬을 이용한 알기쉬운 수치해석
 
 1. [Chapter 1 - 파이썬의 이해](./PPT/ch1-파이썬의이해.pdf)
 2. [Chapter 2 - 비선형 방정식 근 구하기](./PPT/ch2-비선형_방정식_근구하기.pdf)
-3. [Chapter 3 - Linear Systems](./PPT/ch3-선형연립방정식 수치해법.pdf)
-4. [Chapter 4 - Numerical Differentiation](./PPT/ch4-수치미분 (Numerical Differentiation).pdf)
-5. [Chapter 5 - Numerical Integration](./PPT/ch5-수치적분 (Numerical Integration).pdf)
-6. [Chapter 6 - Interpolation](./PPT/ch6-수치 보간 (Interpolation).pdf)
-7. [Chapter 7 - Numerical Regression](./PPT/ch7-수치 회귀 (Numerical Regression).pdf)
-8. [Chapter 8 - Nonlinear Systems](./PPT/ch8-비선형연립방정식 수치해법.pdf)
-9. [Chapter 9 - ODE (Initial Value Problem)](./PPT/ch9-상미분 방정식 (초기치).pdf)
-10. [Chapter 10 - Shooting Method (BVP)](./PPT/ch10-Shooting Method (경계치 문제).pdf)
-11. [Chapter 11 - Finite Difference Method](./PPT/ch11-유한차분법 (Finite Difference Method).pdf)
-12. [Chapter 12 - Finite Element Method](./PPT/ch12-유한요소법 (Finite Element Method).pdf)
+3. [Chapter 3 - Linear Systems](./PPT/ch3-선형연립방정식_수치해법.pdf)
+4. [Chapter 4 - Numerical Differentiation](./PPT/ch4-수치미분_Numerical_Differentiation.pdf)
+5. [Chapter 5 - Numerical Integration](./PPT/ch5-수치적분_Numerical_Integration.pdf)
+6. [Chapter 6 - Interpolation](./PPT/ch6-수치보간_Interpolation.pdf)
+7. [Chapter 7 - Numerical Regression](./PPT/ch7-수치회귀_Numerical_Regression.pdf)
+8. [Chapter 8 - Nonlinear Systems](./PPT/ch8-비선형연립방정식_수치해법.pdf)
+9. [Chapter 9 - ODE (Initial Value Problem)](./PPT/ch9-상미분방정식_초기치문제.pdf)
+10. [Chapter 10 - Shooting Method (BVP)](./PPT/ch10-Shooting_Method_경계치문제.pdf)
+11. [Chapter 11 - Finite Difference Method](./PPT/ch11-유한차분법_Finite_Difference_Method.pdf)
+12. [Chapter 12 - Finite Element Method](./PPT/ch12-유한요소법_Finite_Element_Method.pdf)
 
 ---
+
 
 
 
