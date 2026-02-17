@@ -36,8 +36,14 @@
 
 ### 파이썬을 이용한 알기쉬운 수치해석
 
-1. [Chapter 1 - Understanding Python](./PPT/chapter1_understanding_python.pdf)
-2. [Chapter 2 - Root Finding of Nonlinear Equations](./PPT/Chapter_2__Root_Finding_of_Nonlin...)
+---
+
+## 📚 Lecture Notes (PPT)
+
+### 파이썬을 이용한 알기쉬운 수치해석
+
+1. [Chapter 1 - 파이썬의 이해](./PPT/ch1-파이썬의이해.pdf)
+2. [Chapter 2 - 비선형 방정식 근 구하기](./PPT/ch2-비선형 방정식_근구하기.pdf)
 3. [Chapter 3 - Linear Systems](./PPT/ch3-선형연립방정식 수치해법.pdf)
 4. [Chapter 4 - Numerical Differentiation](./PPT/ch4-수치미분 (Numerical Differentiation).pdf)
 5. [Chapter 5 - Numerical Integration](./PPT/ch5-수치적분 (Numerical Integration).pdf)
