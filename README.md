@@ -133,8 +133,8 @@
 
 | Section | Topic | Code |
 |---------|--------|------|
-| 4.1.1 | Taylor 급수 (exp 함수) | [section_04_01_01_taylor_series_exp.py](chapter05/section_04_01_01_taylor_series_exp.py) |
-| 4.2.6 | 수치미분 코드 구현 | [section_04_02_06_numerical_derivative.py](chapter05/section_04_02_06_numerical_derivative.py) |
+| 4.1.1 | Taylor 급수 (exp 함수) | [section_04_01_01_taylor_series_exp.py](chapter04/section_04_01_01_taylor_series_exp.py) |
+| 4.2.6 | 수치미분 코드 구현 | [section_04_02_06_numerical_derivative.py](chapter04/section_04_02_06_numerical_derivative.py) |
 
 
 ---
