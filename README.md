@@ -39,7 +39,7 @@
 1. [ch1-파이썬의이해](./PPT/ch1-파이썬의이해.pdf)
 2. [ch2-비선형_방정식_근구하기](./PPT/ch2-비선형_방정식_근구하기.pdf)
 3. [ch3-선형연립방정식_수치해법](./PPT/ch3-선형연립방정식_수치해법.pdf)
-4. [ch4-수치미분_Numerical_Differentiation](./PPT/ch4-수치미분_Numerical_Differentiation.pdf)
+4. [ch4-수치미분_Numerical_Differentiation](./PPT/ch4-수치미분_Numerical_Differentiation).pdf)
 5. [ch5-수치적분_Numerical_Integration](./PPT/ch5-수치적분_Numerical_Integration.pdf)
 6. [ch6-수치보간_Interpolation](./PPT/ch6-수치보간_Interpolation.pdf)
 7. [ch7-수치회귀_Numerical_Regression](./PPT/ch7-수치회귀_Numerical_Regression.pdf)
