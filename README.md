@@ -7,6 +7,13 @@
 홍릉출판
 
 ---
+# See Jo Kim
+
+Professor See Jo Kim  
+Numerical Analysis with Python  
+CFD, FEM, OpenFOAM, ROS2  
+
+GitHub: https://github.com/seejokim1
 ---
 
 ## 👨‍🏫 Author
